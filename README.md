@@ -1,1 +1,1 @@
-# NameEntityRecog-
+# named entity recognition
